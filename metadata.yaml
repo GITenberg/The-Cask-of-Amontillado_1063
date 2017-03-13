@@ -1,5 +1,8 @@
 _repo: The-Cask-of-Amontillado_1063
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -14,6 +17,8 @@ description: The story is set in a nameless Italian city in an unspecified year 
   the narrator on a friend who he claims has insulted him. Like several of Poe's stories,
   and in keeping with the 19th-century fascination with the subject, the narrative
   revolves around a person being buried alive--in this case, by immurement.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1063#The-Cask-of-Amontillado
 gutenberg_issued: '2010-06-06'
 gutenberg_type: Text
 identifiers:
